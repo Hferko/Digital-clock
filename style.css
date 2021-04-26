@@ -2,6 +2,7 @@ html, body {
   height: 80%;
   background-color: #aaa;
   border-radius: 14px;
+  margin: 20px;
 }
 
 #clock{ 
