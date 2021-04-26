@@ -1,0 +1,31 @@
+html, body {
+  height: 80%;
+  background-color: #aaa;
+  border-radius: 14px;
+}
+
+#clock{ 
+  text-align: center;  
+  position: relative;
+  top: 50%;
+  font-family: DigifaceWide;
+  font-size: 40px;
+  color: yellow;
+  width: 70%;
+  margin: auto auto;
+  border-radius: 14px;
+  padding: 10px;
+}
+
+#hello{
+  text-align: center;   
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: white;
+  bottom: -10%;
+}
+
+#lorem{
+  color: white;  
+  bottom: -10%;
+}
