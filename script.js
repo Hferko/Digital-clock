@@ -5,7 +5,7 @@ var hours = date.getHours();
 var minutes = date.getMinutes();
 var seconds = date.getSeconds();
 var hexColor = '#' + hours + minutes + seconds;
-var oraSzin = '#' + 99 + 99 + seconds;
+var oraSzin = '#' + hours + 4*minutes + 4*seconds;
 //var meret = hours + 'px';
 
 if (hours < 10) {
